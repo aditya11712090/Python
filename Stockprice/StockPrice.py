@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
-
 
 import pandas as pd
 import yfinance as yf
@@ -27,7 +25,6 @@ data.reset_index(drop=True, inplace=True)
 print(data.head())
 
 
-# In[ ]:
 
 
 
